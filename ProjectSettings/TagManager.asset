@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Next panel
+  - Panel Map 1
+  - Panel Map 2
+  - BulletEnemy
+  - BulletPlayer
+  - Enemy
+  - Brick
+  - ManaStation
+  - Panel Map 4
+  - Panel Map 3
+  - HPStation
+  - Panel Map 5
+  - Poseidon
+  - Wall
+  - Panel Map 6
+  - Panel Map 7
+  - Panel Map 8
+  - Panel Map 9
+  - Panel Map 10
+  - Panel Map 11
+  - ItemNote
+  - Audio
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - BulletPlayer
+  - Untagged
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
