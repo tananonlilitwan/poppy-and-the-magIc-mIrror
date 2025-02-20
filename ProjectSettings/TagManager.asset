@@ -4,28 +4,20 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Next panel
-  - Panel Map 1
-  - Panel Map 2
-  - BulletEnemy
-  - BulletPlayer
-  - Enemy
-  - Brick
-  - ManaStation
-  - Panel Map 4
-  - Panel Map 3
-  - HPStation
-  - Panel Map 5
-  - Poseidon
-  - Wall
-  - Panel Map 6
-  - Panel Map 7
-  - Panel Map 8
-  - Panel Map 9
-  - Panel Map 10
-  - Panel Map 11
-  - ItemNote
+  - Box
+  - Trap
+  - Trap Bullet
+  - Bullet
+  - Small Box
+  - Big Box
+  - ArrowSign
+  - groung
+  - Dor
+  - sign
+  - Monster
+  - Spear
   - Audio
+  - platform
   layers:
   - Default
   - TransparentFX
@@ -33,15 +25,15 @@ TagManager:
   - 
   - Water
   - UI
-  - BulletPlayer
-  - Untagged
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Box
+  - Trap
+  - Trap Bullet
+  - Bullet
+  - Big Box
+  - Small Box
+  - sign
+  - Monster
+  - Spear
   - 
   - 
   - 
@@ -62,4 +54,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: ' sign'
+    uniqueID: 157610021
     locked: 0

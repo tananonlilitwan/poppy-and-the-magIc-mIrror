@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 73ee2cb85945387499c314c2d7293fc7
+  productGUID: bee04477d57d6f34d87ec0e1867bc063
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: LaBuBUSecret_Mythological_Realms
+  productName: LaBuBUSecret_PanFormer
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -815,14 +815,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: LaBuBUSecret_Mythological_Realms
+  metroPackageName: LaBuBUSecret_PanFormer
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: LaBuBUSecret_Mythological_Realms
+  metroApplicationDescription: LaBuBUSecret_PanFormer
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -890,10 +890,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: fabc3dcd-9851-4c4a-bc13-7145e0a6f394
+  cloudProjectId: 6774b1bb-b82e-4e7b-8954-9ba34e540a53
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: LaBuBUSecret_Mythological_Realms
+  projectName: LaBuBUSecret_PanFormer
   organizationId: unity_a6f4e0e43adf8bc1f404
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
